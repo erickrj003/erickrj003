@@ -14,5 +14,7 @@ Besides LAMP and Python development, I teach US marching bands at the high schoo
 - ⚡ Fun fact: I have a thousand hobbies :D Ask me about BJJ, Judo, Magic: The Gathering, Drum Corps, MMA, the White Sox...
 
 LinkedIn: https://www.linkedin.com/in/erick-johnson-8a1624179/
+
 Gmail: erickrj003@gmail.com
+
 Facebook: https://www.facebook.com/erick.johnson.1272
