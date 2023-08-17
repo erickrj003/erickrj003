@@ -6,9 +6,13 @@ Besides LAMP and Python development, I teach US marching bands at the high schoo
 
 ## Currently looking for another role as a developer! Feel free to reach me at <ins>erickrj003@gmail.com</ins>
 
+
+
 - 🔭 I’m currently working on Today's Worldwide Rock, a Python-based Twitter Bot that tweets about rock songs from various countries around the globe.
 - 🌱 I’m currently (trying to) learning Vue.js!
 - 👯 I’m looking to collaborate on PHP or Python projects
+- ⚡ Fun fact: I have a thousand hobbies :D Ask me about BJJ, Judo, Magic: The Gathering, Drum Corps, MMA, the White Sox...
 
-- ⚡ Fun fact: I have a billion hobbies :D Ask me about BJJ, Judo, Magic: The Gathering, Drum Corps, MMA, the White Sox...
-
+LinkedIn: https://www.linkedin.com/in/erick-johnson-8a1624179/
+Gmail: erickrj003@gmail.com
+Facebook: https://www.facebook.com/erick.johnson.1272
