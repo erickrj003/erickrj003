@@ -11,5 +11,7 @@ At the end of the day though, people are so much more important than machines. M
 - ⚡ Fun fact: It's hard to keep track of all of my hobbies. Ask me about BJJ, Drum Corps, Traveling, MMA, the White Sox...
 
 LinkedIn: https://www.linkedin.com/in/erick-johnson-8a1624179/
+
 Gmail: erickrj003@gmail.com
+
 Facebook: https://www.facebook.com/erick.johnson.1272
