@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full-Stack LAMP dev of 2+ years with a passion for service. My work in the clean water industry has taken me from the United States to Sub-Saharan Africa, South Asia and beyond. 
+I'm a Full-Stack dev of 2+ years with a passion for service. My work in the clean water industry has taken me from the United States to Sub-Saharan Africa, South Asia and beyond. 
 At the end of the day though, people are so much more important than machines. My greatest work comes from passionately supporting full-stack projects that directly change lives. 
 
 ## Looking for a new team member? Reach me at <ins>erickrj003@gmail.com</ins>!
